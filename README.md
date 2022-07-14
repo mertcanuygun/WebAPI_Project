@@ -1,6 +1,7 @@
 # WebAPI_Project
 Sample API project for vehicles
 
+This Project aims showing API app. 
 
 1- Model folder is created with entities, DTO's and VM's. BaseVehicle abstract class is inherited to other classes. Note that, DTO folder was created for headlight changes because at the beginning I planned it to be a HttpPatch method. Then I changed to be HttpPost method with a different approach. 
    <br>

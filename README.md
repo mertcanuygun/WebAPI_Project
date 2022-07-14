@@ -1,4 +1,4 @@
-# Alphastellar_WebAPI_Project
+# WebAPI_Project
 Sample API project for vehicles
 
 
